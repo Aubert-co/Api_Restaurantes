@@ -1,0 +1,8 @@
+{
+  "name": "Api_Restaurantes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Aubert-co/Api_Restaurantes.git",
+  "author": "Black <53127242+Aubert-co@users.noreply.github.com>",
+  "license": "MIT"
+}
